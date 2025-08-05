@@ -1,10 +1,7 @@
-const items = [
-  { id: 1, name: "Yogurt", category: "Dairy" },
-  { id: 2, name: "Pomegranate", category: "Produce" },
-  { id: 3, name: "Lettuce", category: "Produce" },
-  { id: 4, name: "String Cheese", category: "Dairy" },
-  { id: 5, name: "Swiss Cheese", category: "Dairy" },
-  { id: 6, name: "Cookies", category: "Dessert" },
+const itemsData = [
+  { id: "1", name: "Apples", category: "Produce" },
+  { id: "2", name: "Milk", category: "Dairy" },
+  { id: "3", name: "Cake", category: "Dessert" },
 ];
 
-export default items;
+export default itemsData;
